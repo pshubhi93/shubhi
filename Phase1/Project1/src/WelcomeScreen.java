@@ -5,7 +5,7 @@ import org.apache.commons.lang3.StringUtils;
 public class WelcomeScreen {
 
 	private static final String RELEASE_VERSION = "0.0.1";
-	private static final String RELEASE_DATE = "04-October-2020";
+	private static final String RELEASE_DATE = "30-November-2020";
 	private static final String RELEASE_YEAR = "2020";
 	private static final int SCREEN_WIDTH = 80;
 	
